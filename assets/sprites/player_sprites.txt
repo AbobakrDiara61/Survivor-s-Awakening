@@ -1,0 +1,8 @@
+up1=assets\photos\daniel\daniel-31.png
+up2=assets\photos\daniel\daniel-34.png
+down1=assets\photos\daniel\daniel-20.png
+down2=assets\photos\daniel\daniel-22.png
+right1=assets\photos\daniel\daniel-24.png
+right2=assets\photos\daniel\daniel-25.png
+left1=assets\photos\daniel\daniel-52.png
+left2=assets\photos\daniel\daniel-53.png

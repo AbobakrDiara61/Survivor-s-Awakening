@@ -1,0 +1,8 @@
+up1=assets\photos\kalra\kalra-25.png
+up2=assets\photos\kalra\kalra-28.png
+down1=assets\photos\kalra\kalra-1.png
+down2=assets\photos\kalra\kalra-5.png
+right1=assets\photos\kalra\kalra-41.png
+right2=assets\photos\kalra\kalra-44.png
+left1=assets\photos\kalra\kalra-9.png
+left2=assets\photos\kalra\kalra-12.png
